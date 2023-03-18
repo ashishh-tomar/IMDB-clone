@@ -1,7 +1,14 @@
 import react from "react";
 import image from "./bannerImg.jpg";
+import Axios from "axios";
+import axios from "axios";
 
 function Movies() {
+
+  
+
+
+
   return (
     <div className="mt-8">
       <div className="mb-8 font-bold text-2xl text-center">Trending Movies</div>
