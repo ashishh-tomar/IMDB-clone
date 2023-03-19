@@ -38,13 +38,23 @@
         -Movies 
     -Responsive 
     -Routing
-    -Pagination
+    -Pagination UI
     -TMDB API
         -fetch data from APi
         -Display in UI
         
 
+# Day-3
 
+    * Finish my Movies Page
+        - Banner Data
+        - Loader in React App
+        - Pagination implementations
+    * Emojies Feature on Movies for favourites page
+    * Local Storage to keep favourite movies saved
+    * Favourites Page UI
+    * Implement pagination, searching, sorting
+    * Deployment
 
 
 
