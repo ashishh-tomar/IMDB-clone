@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from "../logo.png";
+import {Link} from "react-router-dom"
  function Navbar() {
   return (
     <div className='border 
@@ -8,8 +9,8 @@ import Logo from "../logo.png";
     pl-12 py-4
     '>
         <img src={Logo} style={{width : "4rem", height:"4rem"}}alt=""></img>
-        <h3 className='font-bold text-xl'> Movies </h3>
-        <h3 className='font-bold text-xl'> Favourites</h3>
+        <Link to={"/"} className='font-bold text-xl'> Movies </Link>
+        <Link to={"/Favourites"} className='font-bold text-xl'> Favourites</Link>
     </div>
   )
 }

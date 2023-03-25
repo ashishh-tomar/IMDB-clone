@@ -51,10 +51,12 @@
         - Loader in React App
         - Pagination implementations
     * Emojies Feature on Movies for favourites page
-    * Local Storage to keep favourite movies saved
-    * Favourites Page UI
-    * Implement pagination, searching, sorting
+    * Basic UI for favourites Page
+    * Link our Page
     * Deployment
+    * Local Storage to keep favourite movies saved
+    * Implement pagination, searching, sorting
+    
 
 
 
